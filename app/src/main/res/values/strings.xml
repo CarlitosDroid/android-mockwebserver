@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">UsingMockWebServer</string>
+    <string name="main_title">This sample project explains how to use mockwebserver for testing several cases of service responses</string>
 </resources>

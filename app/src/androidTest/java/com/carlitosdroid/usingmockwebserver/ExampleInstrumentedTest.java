@@ -23,10 +23,4 @@ public class ExampleInstrumentedTest {
 
         assertEquals("com.carlitosdroid.usingmockwebserver", appContext.getPackageName());
     }
-
-
-
-
-
-
 }
